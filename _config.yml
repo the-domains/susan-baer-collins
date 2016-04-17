@@ -1,0 +1,28 @@
+name: Susan Baer Collins
+favicon: null
+layout_spectrum: 0.7021316373720765
+typography_spectrum: 0.18650721875019372
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6605180946644396
+  lightness: 0.9961688318289816
+  saturation: 0.8524885065853596
+  rhythmicContrast: 0.45289047062397003
+purpose: []
